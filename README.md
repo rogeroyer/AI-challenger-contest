@@ -44,4 +44,5 @@
 
 3.最终结果为：sample.csv
 
-
+### LICENSE
+[Apache LICENSE](https://github.com/rogeroyer/AI-challenger-contest/blob/master/LICENSE)
