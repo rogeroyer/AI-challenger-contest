@@ -44,5 +44,8 @@
 
 3.最终结果为：sample.csv
 
+### 数据集下载链接
+- [百度云盘](https://pan.baidu.com/s/13D0hwh_NVwVBh_ydpNzPjw)
+- 密码：d5h0
 ### LICENSE
 [Apache LICENSE](https://github.com/rogeroyer/AI-challenger-contest/blob/master/LICENSE)
